@@ -1,0 +1,8 @@
+#requirements
+pandas
+numpy
+requests
+ta
+tensorflow
+scikit-learn
+python-dotenv
